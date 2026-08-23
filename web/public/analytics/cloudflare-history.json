@@ -4,46 +4,46 @@
   "timezone": "Asia/Shanghai",
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
-  "updatedAt": "2026-08-17T08:28:49.268Z",
+  "updatedAt": "2026-08-23T16:23:00.217Z",
   "site": {
-    "pageviews": 77,
-    "visits": 15
+    "pageviews": 91,
+    "visits": 23
   },
   "paths": {
     "/": {
-      "pageviews": 31,
-      "visits": 12
+      "pageviews": 40,
+      "visits": 19
     },
     "/publications": {
-      "pageviews": 13,
+      "pageviews": 14,
       "visits": 2
     },
     "/publications/": {
-      "pageviews": 13,
+      "pageviews": 14,
       "visits": 2
     },
     "/analytics": {
-      "pageviews": 9,
-      "visits": 1
+      "pageviews": 11,
+      "visits": 2
     },
     "/analytics/": {
-      "pageviews": 9,
-      "visits": 1
+      "pageviews": 11,
+      "visits": 2
     },
     "/work": {
-      "pageviews": 6,
+      "pageviews": 7,
       "visits": 0
     },
     "/work/": {
-      "pageviews": 6,
+      "pageviews": 7,
       "visits": 0
     },
     "/projects": {
-      "pageviews": 5,
+      "pageviews": 6,
       "visits": 0
     },
     "/projects/": {
-      "pageviews": 5,
+      "pageviews": 6,
       "visits": 0
     },
     "/expertise": {
@@ -156,6 +156,54 @@
         },
         "/blog/memory-centric-robot-system/": {
           "pageviews": 2,
+          "visits": 0
+        }
+      }
+    },
+    {
+      "id": "20260823",
+      "fetchedAt": "2026-08-23T16:23:00.215Z",
+      "since": "2026-08-16T16:00:00Z",
+      "until": "2026-08-23T16:00:00Z",
+      "site": {
+        "pageviews": 14,
+        "visits": 8
+      },
+      "paths": {
+        "/": {
+          "pageviews": 9,
+          "visits": 7
+        },
+        "/analytics": {
+          "pageviews": 2,
+          "visits": 1
+        },
+        "/analytics/": {
+          "pageviews": 2,
+          "visits": 1
+        },
+        "/projects": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/projects/": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/work": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/work/": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/publications": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/publications/": {
+          "pageviews": 1,
           "visits": 0
         }
       }

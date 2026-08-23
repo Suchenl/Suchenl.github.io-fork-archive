@@ -5,47 +5,47 @@
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
   "timezone": "Asia/Shanghai",
-  "updatedAt": "2026-08-17T08:28:49.268Z",
-  "snapshotCount": 1,
+  "updatedAt": "2026-08-23T16:23:00.217Z",
+  "snapshotCount": 2,
   "site": {
-    "pageviews": 77,
-    "visits": 15
+    "pageviews": 91,
+    "visits": 23
   },
   "paths": {
     "/": {
-      "pageviews": 31,
-      "visits": 12
+      "pageviews": 40,
+      "visits": 19
     },
     "/publications": {
-      "pageviews": 13,
+      "pageviews": 14,
       "visits": 2
     },
     "/publications/": {
-      "pageviews": 13,
+      "pageviews": 14,
       "visits": 2
     },
     "/analytics": {
-      "pageviews": 9,
-      "visits": 1
+      "pageviews": 11,
+      "visits": 2
     },
     "/analytics/": {
-      "pageviews": 9,
-      "visits": 1
+      "pageviews": 11,
+      "visits": 2
     },
     "/work": {
-      "pageviews": 6,
+      "pageviews": 7,
       "visits": 0
     },
     "/work/": {
-      "pageviews": 6,
+      "pageviews": 7,
       "visits": 0
     },
     "/projects": {
-      "pageviews": 5,
+      "pageviews": 6,
       "visits": 0
     },
     "/projects/": {
-      "pageviews": 5,
+      "pageviews": 6,
       "visits": 0
     },
     "/expertise": {
