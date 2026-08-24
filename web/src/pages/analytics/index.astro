@@ -31,12 +31,12 @@ import Bi from '../../components/Bi.astro';
   </section>
 
   <section class="chart-block">
-    <h2 class="section-title"><Bi zh="按周趋势" en="Weekly trend" /></h2>
+    <h2 class="section-title"><Bi zh="累计趋势" en="Cumulative trend" /></h2>
     <p class="muted chart-hint" id="chart-hint">
       <span data-l="zh">加载中…</span><span data-l="en">Loading…</span>
     </p>
     <div class="chart-wrap" id="chart-wrap" hidden>
-      <svg id="trend-chart" viewBox="0 0 720 280" role="img" aria-label="Weekly pageviews and visits">
+      <svg id="trend-chart" viewBox="0 0 720 280" role="img" aria-label="Cumulative pageviews and visits">
         <g class="grid"></g>
         <g class="series-pv"></g>
         <g class="series-visits"></g>
@@ -61,12 +61,12 @@ import Bi from '../../components/Bi.astro';
         <span data-l="en">Views = pageviews (each load/refresh). Visits = Cloudflare Visit (off-site/direct entry).</span>
       </li>
       <li>
-        <span data-l="zh">展示数字为本站自建累计：自 2026-08-13 起，把每周快照相加。累计「访客」是各周 Visit 之和，不是终身不重复人数。</span>
-        <span data-l="en">Displayed totals are self-summed weekly snapshots since 2026-08-13. Cumulative visits sum weekly Visits — not lifetime unique people.</span>
+        <span data-l="zh">展示数字为本站自建累计：自 2026-08-13 起，把每周快照相加。折线每个时间点是「截至该次统计的累计」，不是当周增量。累计「访客」是各周 Visit 之和，不是终身不重复人数。</span>
+        <span data-l="en">Displayed totals are self-summed weekly snapshots since 2026-08-13. Each chart point is the running total up to that snapshot, not that week alone. Cumulative visits sum weekly Visits — not lifetime unique people.</span>
       </li>
       <li>
-        <span data-l="zh">入库：北京时间每周日 23:59 拉取当周（周一 0:00～下周一 0:00）的访问/访客，记为一个时间点，日期形如 20260816；同一天重跑会覆盖。若任务延迟到周一凌晨，仍记到刚过去的那个周日。</span>
-        <span data-l="en">Ingest: each Sunday 23:59 Asia/Shanghai stores that Mon–Sun week as one point labeled YYYYMMDD (e.g. 20260816). Late Monday runs still use the previous Sunday.</span>
+        <span data-l="zh">入库：北京时间每周日 23:59 拉取当周（周一 0:00～下周一 0:00）的访问/访客增量，记为一个时间点，日期形如 20260816；同一天重跑会覆盖。若任务延迟到周一凌晨，仍记到刚过去的那个周日。</span>
+        <span data-l="en">Ingest: each Sunday 23:59 Asia/Shanghai stores that Mon–Sun week’s delta as one point labeled YYYYMMDD (e.g. 20260816). Late Monday runs still use the previous Sunday.</span>
       </li>
       <li>
         <span data-l="zh">Cloudflare 官方仪表盘是滚动窗口，和本页累计是两套账，不必强行对齐。</span>
@@ -173,17 +173,24 @@ import Bi from '../../components/Bi.astro';
     const hint = document.getElementById('chart-hint');
     if (!svg || !wrap || !hint) return;
 
-    const pts = snapshots.map((s) => ({
-      id: s.id,
-      label: s.id, // YYYYMMDD
-      pv: Number(s.site?.pageviews) || 0,
-      visits: Number(s.site?.visits) || 0,
-    }));
+    // Chart shows running totals at each snapshot time (not that week's delta).
+    let cumPv = 0;
+    let cumVisits = 0;
+    const pts = snapshots.map((s) => {
+      cumPv += Number(s.site?.pageviews) || 0;
+      cumVisits += Number(s.site?.visits) || 0;
+      return {
+        id: s.id,
+        label: s.id, // YYYYMMDD
+        pv: cumPv,
+        visits: cumVisits,
+      };
+    });
 
     if (!pts.length) {
       hint.hidden = false;
       hint.innerHTML =
-        '<span data-l="zh">还没有周数据。周日 23:59 入库后会出现折线。</span><span data-l="en">No weekly points yet.</span>';
+        '<span data-l="zh">还没有统计点。周日 23:59 入库后会出现累计折线。</span><span data-l="en">No snapshot points yet.</span>';
       return;
     }
 
