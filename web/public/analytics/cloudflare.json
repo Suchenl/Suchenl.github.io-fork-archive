@@ -5,71 +5,71 @@
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
   "timezone": "Asia/Shanghai",
-  "updatedAt": "2026-09-13T18:32:52.141Z",
-  "snapshotCount": 5,
+  "updatedAt": "2026-09-20T18:29:27.920Z",
+  "snapshotCount": 6,
   "site": {
-    "pageviews": 210,
-    "visits": 87
+    "pageviews": 242,
+    "visits": 107
   },
   "paths": {
     "/": {
-      "pageviews": 109,
-      "visits": 81
+      "pageviews": 125,
+      "visits": 97
     },
     "/publications": {
-      "pageviews": 26,
-      "visits": 3
+      "pageviews": 29,
+      "visits": 4
     },
     "/publications/": {
-      "pageviews": 26,
-      "visits": 3
+      "pageviews": 29,
+      "visits": 4
     },
     "/analytics": {
-      "pageviews": 15,
-      "visits": 2
+      "pageviews": 17,
+      "visits": 3
     },
     "/analytics/": {
-      "pageviews": 15,
-      "visits": 2
+      "pageviews": 17,
+      "visits": 3
     },
     "/work": {
-      "pageviews": 14,
+      "pageviews": 15,
       "visits": 1
     },
     "/work/": {
-      "pageviews": 14,
+      "pageviews": 15,
       "visits": 1
     },
     "/projects": {
-      "pageviews": 14,
+      "pageviews": 16,
       "visits": 0
     },
     "/projects/": {
-      "pageviews": 14,
+      "pageviews": 16,
       "visits": 0
     },
     "/expertise": {
-      "pageviews": 10,
-      "visits": 0
+      "pageviews": 12,
+      "visits": 1
     },
     "/expertise/": {
-      "pageviews": 10,
-      "visits": 0
+      "pageviews": 12,
+      "visits": 1
     },
     "/blog/why-flow-matching-works": {
-      "pageviews": 7,
-      "visits": 0
+      "pageviews": 9,
+      "visits": 1
     },
     "/blog/why-flow-matching-works/": {
-      "pageviews": 7,
-      "visits": 0
+      "pageviews": 9,
+      "visits": 1
     },
     "/blog": {
-      "pageviews": 11,
+      "pageviews": 15,
       "visits": 0
     },
     "/blog/": {
-      "pageviews": 11,
+      "pageviews": 15,
       "visits": 0
     },
     "/blog/memory-centric-robot-system": {
