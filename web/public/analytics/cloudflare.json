@@ -5,71 +5,71 @@
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
   "timezone": "Asia/Shanghai",
-  "updatedAt": "2026-09-20T18:29:27.920Z",
-  "snapshotCount": 6,
+  "updatedAt": "2026-09-27T19:32:41.530Z",
+  "snapshotCount": 7,
   "site": {
-    "pageviews": 242,
-    "visits": 107
+    "pageviews": 282,
+    "visits": 125
   },
   "paths": {
     "/": {
-      "pageviews": 125,
-      "visits": 97
+      "pageviews": 145,
+      "visits": 114
     },
     "/publications": {
-      "pageviews": 29,
+      "pageviews": 33,
       "visits": 4
     },
     "/publications/": {
-      "pageviews": 29,
+      "pageviews": 33,
       "visits": 4
     },
     "/analytics": {
-      "pageviews": 17,
+      "pageviews": 19,
       "visits": 3
     },
     "/analytics/": {
-      "pageviews": 17,
+      "pageviews": 19,
       "visits": 3
     },
     "/work": {
-      "pageviews": 15,
+      "pageviews": 19,
       "visits": 1
     },
     "/work/": {
-      "pageviews": 15,
+      "pageviews": 19,
       "visits": 1
     },
     "/projects": {
-      "pageviews": 16,
+      "pageviews": 19,
       "visits": 0
     },
     "/projects/": {
-      "pageviews": 16,
+      "pageviews": 19,
       "visits": 0
     },
     "/expertise": {
-      "pageviews": 12,
-      "visits": 1
+      "pageviews": 15,
+      "visits": 2
     },
     "/expertise/": {
-      "pageviews": 12,
-      "visits": 1
+      "pageviews": 15,
+      "visits": 2
     },
     "/blog/why-flow-matching-works": {
-      "pageviews": 9,
+      "pageviews": 11,
       "visits": 1
     },
     "/blog/why-flow-matching-works/": {
-      "pageviews": 9,
+      "pageviews": 11,
       "visits": 1
     },
     "/blog": {
-      "pageviews": 15,
+      "pageviews": 17,
       "visits": 0
     },
     "/blog/": {
-      "pageviews": 15,
+      "pageviews": 17,
       "visits": 0
     },
     "/blog/memory-centric-robot-system": {
