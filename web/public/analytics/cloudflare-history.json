@@ -4,15 +4,15 @@
   "timezone": "Asia/Shanghai",
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
-  "updatedAt": "2026-09-27T19:32:41.530Z",
+  "updatedAt": "2026-10-04T19:11:51.296Z",
   "site": {
-    "pageviews": 282,
-    "visits": 125
+    "pageviews": 309,
+    "visits": 150
   },
   "paths": {
     "/": {
-      "pageviews": 145,
-      "visits": 114
+      "pageviews": 167,
+      "visits": 136
     },
     "/publications": {
       "pageviews": 33,
@@ -23,20 +23,20 @@
       "visits": 4
     },
     "/analytics": {
-      "pageviews": 19,
+      "pageviews": 21,
       "visits": 3
     },
     "/analytics/": {
-      "pageviews": 19,
+      "pageviews": 21,
       "visits": 3
     },
     "/work": {
-      "pageviews": 19,
-      "visits": 1
+      "pageviews": 20,
+      "visits": 2
     },
     "/work/": {
-      "pageviews": 19,
-      "visits": 1
+      "pageviews": 20,
+      "visits": 2
     },
     "/projects": {
       "pageviews": 19,
@@ -63,12 +63,12 @@
       "visits": 1
     },
     "/blog": {
-      "pageviews": 17,
-      "visits": 0
+      "pageviews": 18,
+      "visits": 1
     },
     "/blog/": {
-      "pageviews": 17,
-      "visits": 0
+      "pageviews": 18,
+      "visits": 1
     },
     "/blog/memory-centric-robot-system": {
       "pageviews": 2,
@@ -79,12 +79,12 @@
       "visits": 0
     },
     "/blog/hello-world": {
-      "pageviews": 2,
-      "visits": 0
+      "pageviews": 3,
+      "visits": 1
     },
     "/blog/hello-world/": {
-      "pageviews": 2,
-      "visits": 0
+      "pageviews": 3,
+      "visits": 1
     }
   },
   "snapshots": [
@@ -565,6 +565,54 @@
         "/analytics/": {
           "pageviews": 2,
           "visits": 0
+        }
+      }
+    },
+    {
+      "id": "20261004",
+      "fetchedAt": "2026-10-04T19:11:51.295Z",
+      "since": "2026-09-27T16:00:00Z",
+      "until": "2026-10-04T16:00:00Z",
+      "site": {
+        "pageviews": 27,
+        "visits": 25
+      },
+      "paths": {
+        "/": {
+          "pageviews": 22,
+          "visits": 22
+        },
+        "/analytics": {
+          "pageviews": 2,
+          "visits": 0
+        },
+        "/analytics/": {
+          "pageviews": 2,
+          "visits": 0
+        },
+        "/work": {
+          "pageviews": 1,
+          "visits": 1
+        },
+        "/work/": {
+          "pageviews": 1,
+          "visits": 1
+        },
+        "/blog": {
+          "pageviews": 1,
+          "visits": 1
+        },
+        "/blog/": {
+          "pageviews": 1,
+          "visits": 1
+        },
+        "/blog/hello-world": {
+          "pageviews": 1,
+          "visits": 1
+        },
+        "/blog/hello-world/": {
+          "pageviews": 1,
+          "visits": 1
         }
       }
     }
