@@ -4,54 +4,54 @@
   "timezone": "Asia/Shanghai",
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
-  "updatedAt": "2026-10-11T19:55:13.429Z",
+  "updatedAt": "2026-10-18T18:27:45.725Z",
   "site": {
-    "pageviews": 370,
-    "visits": 179
+    "pageviews": 402,
+    "visits": 195
   },
   "paths": {
     "/": {
-      "pageviews": 196,
-      "visits": 160
+      "pageviews": 215,
+      "visits": 176
     },
     "/publications": {
-      "pageviews": 40,
+      "pageviews": 42,
       "visits": 5
     },
     "/publications/": {
-      "pageviews": 40,
+      "pageviews": 42,
       "visits": 5
     },
     "/analytics": {
-      "pageviews": 22,
+      "pageviews": 23,
       "visits": 3
     },
     "/analytics/": {
-      "pageviews": 22,
+      "pageviews": 23,
       "visits": 3
     },
     "/work": {
-      "pageviews": 24,
+      "pageviews": 27,
       "visits": 3
     },
     "/work/": {
-      "pageviews": 24,
+      "pageviews": 27,
       "visits": 3
     },
     "/projects": {
-      "pageviews": 28,
+      "pageviews": 29,
       "visits": 2
     },
     "/projects/": {
-      "pageviews": 28,
+      "pageviews": 29,
       "visits": 2
     },
     "/expertise": {
-      "pageviews": 16,
+      "pageviews": 19,
       "visits": 2
     },
     "/expertise/": {
-      "pageviews": 16,
+      "pageviews": 19,
       "visits": 2
     },
     "/blog/why-flow-matching-works": {
@@ -63,11 +63,11 @@
       "visits": 1
     },
     "/blog": {
-      "pageviews": 23,
+      "pageviews": 25,
       "visits": 1
     },
     "/blog/": {
-      "pageviews": 23,
+      "pageviews": 25,
       "visits": 1
     },
     "/blog/memory-centric-robot-system": {
@@ -87,11 +87,11 @@
       "visits": 1
     },
     "/blog/iclr-2027-submissions": {
-      "pageviews": 3,
+      "pageviews": 4,
       "visits": 1
     },
     "/blog/iclr-2027-submissions/": {
-      "pageviews": 3,
+      "pageviews": 4,
       "visits": 1
     }
   },
@@ -691,6 +691,78 @@
           "visits": 0
         },
         "/expertise/": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/analytics": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/analytics/": {
+          "pageviews": 1,
+          "visits": 0
+        }
+      }
+    },
+    {
+      "id": "20261018",
+      "fetchedAt": "2026-10-18T18:27:45.724Z",
+      "since": "2026-10-11T16:00:00Z",
+      "until": "2026-10-18T16:00:00Z",
+      "site": {
+        "pageviews": 32,
+        "visits": 16
+      },
+      "paths": {
+        "/": {
+          "pageviews": 19,
+          "visits": 16
+        },
+        "/work": {
+          "pageviews": 3,
+          "visits": 0
+        },
+        "/work/": {
+          "pageviews": 3,
+          "visits": 0
+        },
+        "/expertise": {
+          "pageviews": 3,
+          "visits": 0
+        },
+        "/expertise/": {
+          "pageviews": 3,
+          "visits": 0
+        },
+        "/blog": {
+          "pageviews": 2,
+          "visits": 0
+        },
+        "/blog/": {
+          "pageviews": 2,
+          "visits": 0
+        },
+        "/publications": {
+          "pageviews": 2,
+          "visits": 0
+        },
+        "/publications/": {
+          "pageviews": 2,
+          "visits": 0
+        },
+        "/projects": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/projects/": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/blog/iclr-2027-submissions": {
+          "pageviews": 1,
+          "visits": 0
+        },
+        "/blog/iclr-2027-submissions/": {
           "pageviews": 1,
           "visits": 0
         },
