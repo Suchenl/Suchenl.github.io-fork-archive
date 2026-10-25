@@ -5,71 +5,71 @@
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
   "timezone": "Asia/Shanghai",
-  "updatedAt": "2026-10-18T18:27:45.725Z",
-  "snapshotCount": 10,
+  "updatedAt": "2026-10-25T18:43:57.861Z",
+  "snapshotCount": 11,
   "site": {
-    "pageviews": 402,
-    "visits": 195
+    "pageviews": 824,
+    "visits": 264
   },
   "paths": {
     "/": {
-      "pageviews": 215,
-      "visits": 176
+      "pageviews": 275,
+      "visits": 207
     },
     "/publications": {
-      "pageviews": 42,
-      "visits": 5
+      "pageviews": 67,
+      "visits": 7
     },
     "/publications/": {
-      "pageviews": 42,
-      "visits": 5
+      "pageviews": 67,
+      "visits": 7
     },
     "/analytics": {
-      "pageviews": 23,
+      "pageviews": 26,
       "visits": 3
     },
     "/analytics/": {
-      "pageviews": 23,
+      "pageviews": 26,
       "visits": 3
     },
     "/work": {
-      "pageviews": 27,
-      "visits": 3
+      "pageviews": 38,
+      "visits": 4
     },
     "/work/": {
-      "pageviews": 27,
-      "visits": 3
+      "pageviews": 38,
+      "visits": 4
     },
     "/projects": {
-      "pageviews": 29,
+      "pageviews": 43,
       "visits": 2
     },
     "/projects/": {
-      "pageviews": 29,
+      "pageviews": 43,
       "visits": 2
     },
     "/expertise": {
-      "pageviews": 19,
+      "pageviews": 27,
       "visits": 2
     },
     "/expertise/": {
-      "pageviews": 19,
+      "pageviews": 27,
       "visits": 2
     },
     "/blog/why-flow-matching-works": {
-      "pageviews": 13,
-      "visits": 1
+      "pageviews": 16,
+      "visits": 2
     },
     "/blog/why-flow-matching-works/": {
-      "pageviews": 13,
-      "visits": 1
+      "pageviews": 16,
+      "visits": 2
     },
     "/blog": {
-      "pageviews": 25,
+      "pageviews": 39,
       "visits": 1
     },
     "/blog/": {
-      "pageviews": 25,
+      "pageviews": 39,
       "visits": 1
     },
     "/blog/memory-centric-robot-system": {
@@ -81,20 +81,228 @@
       "visits": 0
     },
     "/blog/hello-world": {
-      "pageviews": 3,
+      "pageviews": 4,
       "visits": 1
     },
     "/blog/hello-world/": {
-      "pageviews": 3,
+      "pageviews": 4,
       "visits": 1
     },
     "/blog/iclr-2027-submissions": {
-      "pageviews": 4,
+      "pageviews": 8,
       "visits": 1
     },
     "/blog/iclr-2027-submissions/": {
-      "pageviews": 4,
+      "pageviews": 8,
       "visits": 1
+    },
+    "/research": {
+      "pageviews": 129,
+      "visits": 4
+    },
+    "/research/": {
+      "pageviews": 129,
+      "visits": 4
+    },
+    "/questions": {
+      "pageviews": 29,
+      "visits": 1
+    },
+    "/questions/": {
+      "pageviews": 29,
+      "visits": 1
+    },
+    "/research/papers/2026/supermimic": {
+      "pageviews": 25,
+      "visits": 13
+    },
+    "/research/papers/2026/supermimic/": {
+      "pageviews": 25,
+      "visits": 13
+    },
+    "/research/research/how-models-learn-adaptive-reasoning": {
+      "pageviews": 15,
+      "visits": 0
+    },
+    "/research/research/how-models-learn-adaptive-reasoning/": {
+      "pageviews": 15,
+      "visits": 0
+    },
+    "/about": {
+      "pageviews": 12,
+      "visits": 0
+    },
+    "/about/": {
+      "pageviews": 12,
+      "visits": 0
+    },
+    "/research/research/action-sampling-frequency-bias": {
+      "pageviews": 9,
+      "visits": 4
+    },
+    "/research/research/action-sampling-frequency-bias/": {
+      "pageviews": 9,
+      "visits": 4
+    },
+    "/research/topics/llm-agent-training/reviews/sft-rl-co-training": {
+      "pageviews": 8,
+      "visits": 3
+    },
+    "/research/topics/llm-agent-training/reviews/sft-rl-co-training/": {
+      "pageviews": 8,
+      "visits": 3
+    },
+    "/research/topics/pretraining/reviews/pretraining-engineering-roadmap": {
+      "pageviews": 7,
+      "visits": 1
+    },
+    "/research/topics/pretraining/reviews/pretraining-engineering-roadmap/": {
+      "pageviews": 7,
+      "visits": 1
+    },
+    "/research/research/do-tokenizers-preserve-numerical-continuity": {
+      "pageviews": 5,
+      "visits": 0
+    },
+    "/research/research/do-tokenizers-preserve-numerical-continuity/": {
+      "pageviews": 5,
+      "visits": 0
+    },
+    "/research/glossary/core": {
+      "pageviews": 5,
+      "visits": 0
+    },
+    "/research/glossary/core/": {
+      "pageviews": 5,
+      "visits": 0
+    },
+    "/research/topics/agent-reasoning/reviews/cot-tool-use-and-thinking-scheduling": {
+      "pageviews": 4,
+      "visits": 2
+    },
+    "/research/topics/agent-reasoning/reviews/cot-tool-use-and-thinking-scheduling/": {
+      "pageviews": 4,
+      "visits": 2
+    },
+    "/blog/can-coding-agents-be-deployable-robot-agents": {
+      "pageviews": 3,
+      "visits": 3
+    },
+    "/blog/can-coding-agents-be-deployable-robot-agents/": {
+      "pageviews": 3,
+      "visits": 3
+    },
+    "/research/compare": {
+      "pageviews": 3,
+      "visits": 0
+    },
+    "/research/compare/": {
+      "pageviews": 3,
+      "visits": 0
+    },
+    "/research/research/robot-trajectory-reward": {
+      "pageviews": 3,
+      "visits": 0
+    },
+    "/research/research/robot-trajectory-reward/": {
+      "pageviews": 3,
+      "visits": 0
+    },
+    "/research/papers/2026/mimo-mopd2": {
+      "pageviews": 3,
+      "visits": 1
+    },
+    "/research/papers/2026/mimo-mopd2/": {
+      "pageviews": 3,
+      "visits": 1
+    },
+    "/research/paths/agent-post-training": {
+      "pageviews": 3,
+      "visits": 0
+    },
+    "/research/paths/agent-post-training/": {
+      "pageviews": 3,
+      "visits": 0
+    },
+    "/research/glossary/agent-training": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/glossary/agent-training/": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/papers/2025/deepseek-r1": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/papers/2025/deepseek-r1/": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/research/how-agent-reasoning-tools-and-state-work": {
+      "pageviews": 2,
+      "visits": 2
+    },
+    "/research/research/how-agent-reasoning-tools-and-state-work/": {
+      "pageviews": 2,
+      "visits": 2
+    },
+    "/research/research/agent-post-training-experiment-agenda": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/research/agent-post-training-experiment-agenda/": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/papers/2026/bridge": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/papers/2026/bridge/": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/papers/2026/agenttune": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/papers/2026/agenttune/": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/topics/llm-agent-training/reviews/evidence-map": {
+      "pageviews": 1,
+      "visits": 0
+    },
+    "/research/topics/llm-agent-training/reviews/evidence-map/": {
+      "pageviews": 1,
+      "visits": 0
+    },
+    "/research/papers/2026/tsrl": {
+      "pageviews": 1,
+      "visits": 0
+    },
+    "/research/papers/2026/tsrl/": {
+      "pageviews": 1,
+      "visits": 0
+    },
+    "/research/papers/2026/dypo": {
+      "pageviews": 1,
+      "visits": 0
+    },
+    "/research/papers/2026/dypo/": {
+      "pageviews": 1,
+      "visits": 0
+    },
+    "/research/papers/2026/echo-memory": {
+      "pageviews": 1,
+      "visits": 0
+    },
+    "/research/papers/2026/echo-memory/": {
+      "pageviews": 1,
+      "visits": 0
     }
   },
   "historyUrl": "/analytics/cloudflare-history.json"
