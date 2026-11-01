@@ -5,47 +5,47 @@
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
   "timezone": "Asia/Shanghai",
-  "updatedAt": "2026-10-25T18:43:57.861Z",
-  "snapshotCount": 11,
+  "updatedAt": "2026-11-01T20:12:04.074Z",
+  "snapshotCount": 12,
   "site": {
-    "pageviews": 824,
-    "visits": 264
+    "pageviews": 1083,
+    "visits": 343
   },
   "paths": {
     "/": {
-      "pageviews": 275,
-      "visits": 207
+      "pageviews": 352,
+      "visits": 260
     },
     "/publications": {
-      "pageviews": 67,
-      "visits": 7
+      "pageviews": 102,
+      "visits": 11
     },
     "/publications/": {
-      "pageviews": 67,
-      "visits": 7
+      "pageviews": 102,
+      "visits": 11
     },
     "/analytics": {
-      "pageviews": 26,
+      "pageviews": 29,
       "visits": 3
     },
     "/analytics/": {
-      "pageviews": 26,
+      "pageviews": 29,
       "visits": 3
     },
     "/work": {
-      "pageviews": 38,
-      "visits": 4
+      "pageviews": 45,
+      "visits": 5
     },
     "/work/": {
-      "pageviews": 38,
-      "visits": 4
+      "pageviews": 45,
+      "visits": 5
     },
     "/projects": {
-      "pageviews": 43,
+      "pageviews": 59,
       "visits": 2
     },
     "/projects/": {
-      "pageviews": 43,
+      "pageviews": 59,
       "visits": 2
     },
     "/expertise": {
@@ -65,12 +65,12 @@
       "visits": 2
     },
     "/blog": {
-      "pageviews": 39,
-      "visits": 1
+      "pageviews": 53,
+      "visits": 2
     },
     "/blog/": {
-      "pageviews": 39,
-      "visits": 1
+      "pageviews": 53,
+      "visits": 2
     },
     "/blog/memory-centric-robot-system": {
       "pageviews": 2,
@@ -81,36 +81,36 @@
       "visits": 0
     },
     "/blog/hello-world": {
-      "pageviews": 4,
+      "pageviews": 6,
       "visits": 1
     },
     "/blog/hello-world/": {
-      "pageviews": 4,
+      "pageviews": 6,
       "visits": 1
     },
     "/blog/iclr-2027-submissions": {
-      "pageviews": 8,
+      "pageviews": 10,
       "visits": 1
     },
     "/blog/iclr-2027-submissions/": {
-      "pageviews": 8,
+      "pageviews": 10,
       "visits": 1
     },
     "/research": {
-      "pageviews": 129,
+      "pageviews": 186,
       "visits": 4
     },
     "/research/": {
-      "pageviews": 129,
+      "pageviews": 186,
       "visits": 4
     },
     "/questions": {
-      "pageviews": 29,
-      "visits": 1
+      "pageviews": 42,
+      "visits": 2
     },
     "/questions/": {
-      "pageviews": 29,
-      "visits": 1
+      "pageviews": 42,
+      "visits": 2
     },
     "/research/papers/2026/supermimic": {
       "pageviews": 25,
@@ -161,19 +161,19 @@
       "visits": 1
     },
     "/research/research/do-tokenizers-preserve-numerical-continuity": {
-      "pageviews": 5,
+      "pageviews": 6,
       "visits": 0
     },
     "/research/research/do-tokenizers-preserve-numerical-continuity/": {
-      "pageviews": 5,
+      "pageviews": 6,
       "visits": 0
     },
     "/research/glossary/core": {
-      "pageviews": 5,
+      "pageviews": 6,
       "visits": 0
     },
     "/research/glossary/core/": {
-      "pageviews": 5,
+      "pageviews": 6,
       "visits": 0
     },
     "/research/topics/agent-reasoning/reviews/cot-tool-use-and-thinking-scheduling": {
@@ -185,11 +185,11 @@
       "visits": 2
     },
     "/blog/can-coding-agents-be-deployable-robot-agents": {
-      "pageviews": 3,
+      "pageviews": 5,
       "visits": 3
     },
     "/blog/can-coding-agents-be-deployable-robot-agents/": {
-      "pageviews": 3,
+      "pageviews": 5,
       "visits": 3
     },
     "/research/compare": {
@@ -241,12 +241,12 @@
       "visits": 0
     },
     "/research/research/how-agent-reasoning-tools-and-state-work": {
-      "pageviews": 2,
-      "visits": 2
+      "pageviews": 3,
+      "visits": 3
     },
     "/research/research/how-agent-reasoning-tools-and-state-work/": {
-      "pageviews": 2,
-      "visits": 2
+      "pageviews": 3,
+      "visits": 3
     },
     "/research/research/agent-post-training-experiment-agenda": {
       "pageviews": 2,
@@ -303,6 +303,54 @@
     "/research/papers/2026/echo-memory/": {
       "pageviews": 1,
       "visits": 0
+    },
+    "/research/papers/2024/hil-serl": {
+      "pageviews": 14,
+      "visits": 12
+    },
+    "/research/papers/2024/hil-serl/": {
+      "pageviews": 14,
+      "visits": 12
+    },
+    "/paper-notes": {
+      "pageviews": 4,
+      "visits": 0
+    },
+    "/paper-notes/": {
+      "pageviews": 4,
+      "visits": 0
+    },
+    "/research/papers/2023/rlpd": {
+      "pageviews": 4,
+      "visits": 3
+    },
+    "/research/papers/2023/rlpd/": {
+      "pageviews": 4,
+      "visits": 3
+    },
+    "/research/research/opd-forward-reverse-kl-qa": {
+      "pageviews": 3,
+      "visits": 2
+    },
+    "/research/research/opd-forward-reverse-kl-qa/": {
+      "pageviews": 3,
+      "visits": 2
+    },
+    "/blog/why-i-study-robotics": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/blog/why-i-study-robotics/": {
+      "pageviews": 2,
+      "visits": 0
+    },
+    "/research/research/actor-critic-mutual-dependence": {
+      "pageviews": 1,
+      "visits": 1
+    },
+    "/research/research/actor-critic-mutual-dependence/": {
+      "pageviews": 1,
+      "visits": 1
     }
   },
   "historyUrl": "/analytics/cloudflare-history.json"
