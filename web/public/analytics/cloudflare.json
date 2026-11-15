@@ -5,24 +5,24 @@
   "accumulateSince": "2026-08-13T00:00:00+08:00",
   "accumulateSinceLabel": "2026-08-13",
   "timezone": "Asia/Shanghai",
-  "updatedAt": "2026-11-08T20:12:22.165Z",
-  "snapshotCount": 13,
+  "updatedAt": "2026-11-15T20:49:47.537Z",
+  "snapshotCount": 14,
   "site": {
-    "pageviews": 1233,
-    "visits": 403
+    "pageviews": 1300,
+    "visits": 432
   },
   "paths": {
     "/": {
-      "pageviews": 401,
-      "visits": 295
+      "pageviews": 434,
+      "visits": 321
     },
     "/publications": {
-      "pageviews": 107,
-      "visits": 13
+      "pageviews": 108,
+      "visits": 14
     },
     "/publications/": {
-      "pageviews": 107,
-      "visits": 13
+      "pageviews": 108,
+      "visits": 14
     },
     "/analytics": {
       "pageviews": 31,
@@ -33,11 +33,11 @@
       "visits": 3
     },
     "/work": {
-      "pageviews": 51,
+      "pageviews": 65,
       "visits": 5
     },
     "/work/": {
-      "pageviews": 51,
+      "pageviews": 65,
       "visits": 5
     },
     "/projects": {
@@ -65,11 +65,11 @@
       "visits": 2
     },
     "/blog": {
-      "pageviews": 58,
+      "pageviews": 62,
       "visits": 2
     },
     "/blog/": {
-      "pageviews": 58,
+      "pageviews": 62,
       "visits": 2
     },
     "/blog/memory-centric-robot-system": {
@@ -113,12 +113,12 @@
       "visits": 2
     },
     "/research/papers/2026/supermimic": {
-      "pageviews": 25,
-      "visits": 13
+      "pageviews": 26,
+      "visits": 14
     },
     "/research/papers/2026/supermimic/": {
-      "pageviews": 25,
-      "visits": 13
+      "pageviews": 26,
+      "visits": 14
     },
     "/research/research/how-models-learn-adaptive-reasoning": {
       "pageviews": 15,
@@ -161,11 +161,11 @@
       "visits": 1
     },
     "/research/research/do-tokenizers-preserve-numerical-continuity": {
-      "pageviews": 6,
+      "pageviews": 7,
       "visits": 0
     },
     "/research/research/do-tokenizers-preserve-numerical-continuity/": {
-      "pageviews": 6,
+      "pageviews": 7,
       "visits": 0
     },
     "/research/glossary/core": {
@@ -185,11 +185,11 @@
       "visits": 2
     },
     "/blog/can-coding-agents-be-deployable-robot-agents": {
-      "pageviews": 6,
+      "pageviews": 7,
       "visits": 3
     },
     "/blog/can-coding-agents-be-deployable-robot-agents/": {
-      "pageviews": 6,
+      "pageviews": 7,
       "visits": 3
     },
     "/research/compare": {
@@ -337,11 +337,11 @@
       "visits": 2
     },
     "/blog/why-i-study-robotics": {
-      "pageviews": 2,
+      "pageviews": 3,
       "visits": 0
     },
     "/blog/why-i-study-robotics/": {
-      "pageviews": 2,
+      "pageviews": 3,
       "visits": 0
     },
     "/research/research/actor-critic-mutual-dependence": {
@@ -353,19 +353,19 @@
       "visits": 1
     },
     "/knowledge": {
-      "pageviews": 38,
+      "pageviews": 44,
       "visits": 1
     },
     "/knowledge/": {
-      "pageviews": 38,
+      "pageviews": 44,
       "visits": 1
     },
     "/outputs": {
-      "pageviews": 9,
+      "pageviews": 13,
       "visits": 0
     },
     "/outputs/": {
-      "pageviews": 9,
+      "pageviews": 13,
       "visits": 0
     },
     "/research/topics/pretraining": {
@@ -399,6 +399,14 @@
     "/research/domains/llm-and-rl/": {
       "pageviews": 1,
       "visits": 0
+    },
+    "/research/topics/text-retrieval/reviews/lexical-bm25": {
+      "pageviews": 1,
+      "visits": 1
+    },
+    "/research/topics/text-retrieval/reviews/lexical-bm25/": {
+      "pageviews": 1,
+      "visits": 1
     }
   },
   "historyUrl": "/analytics/cloudflare-history.json"
